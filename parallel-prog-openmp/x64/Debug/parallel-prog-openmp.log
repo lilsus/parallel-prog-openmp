@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lilsus\source\repos\parallel-prog-openmp\parallel-prog-openmp\main.cpp(32,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  parallel-prog-openmp.vcxproj -> C:\Users\lilsus\source\repos\parallel-prog-openmp\x64\Debug\parallel-prog-openmp.exe
